@@ -1,0 +1,1 @@
+@layer components{.VKl6m{width:100%;border-radius:var(--radius-md);background-color:var(--gray-50);font-size:13px}.VKl6m:focus-within{position:relative;background-color:var(--gray-75)}:where([data-theme=dark]) .VKl6m{background-color:var(--gray-75)}:where([data-theme=dark]) .VKl6m:focus-within{background-color:var(--color-background-primary-soft)}}

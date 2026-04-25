@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "index.py": {
+      "maxDuration": 60,
+      "excludeFiles": "{.venv/**,data/**,**/__pycache__/**,**/*.pyc,*.pdf,Agent builder - New workflow - OpenAI API.html,Agent builder - New workflow - OpenAI API_files/**}"
+    }
+  }
+}
+

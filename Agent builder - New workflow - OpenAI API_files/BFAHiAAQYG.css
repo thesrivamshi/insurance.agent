@@ -1,0 +1,1 @@
+@layer components{.cTBD-{padding:0 12px 8px;margin:0;color:var(--color-text-tertiary);font-size:13px;font-weight:var(--font-weight-medium);line-height:14px;transition:opacity var(--collapse-transition-duration) var(--cubic-move)}[data-sidebar=collapsed] .cTBD-{opacity:0}}
